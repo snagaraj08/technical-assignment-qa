@@ -21,7 +21,8 @@
 * Navigate to snagaraj/src/test/java/com/gumtree/ui/automation/runner
 * Right click on ApiRunnerTests
 
-# Task 3 - Example 1 - Writing Acceptence Criteria for Unit Tests
+# Task 3 - Example 1
+### Acceptence Criteria for Unit Tests
 * Please find the Acceptence Criteria here snagaraj/src/Unit_Testing_Acceptence_Criteria.feature
 
 
